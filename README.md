@@ -387,6 +387,7 @@
 * [한정현](http://www.kazikai.net/)
 * [한주영](https://medium.com/@jooyunghan)
 * [허재위](http://import.re/)
+* [허민](http://theorydb.github.io) - 머신러닝, 딥러닝, 데이터사이언스
 * [허준회(주네)](https://joone.wordpress.com/), [허준회(주네)](http://www.joone.net/)
 * [홍길한](http://blog.naver.com/hgh73) - 워드프레스
 * [홍민희(dahlia)](http://hongminhee.org/)
